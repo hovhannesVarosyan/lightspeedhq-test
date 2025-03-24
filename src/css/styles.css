@@ -1,0 +1,45 @@
+.add-to-cart-btn {
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.add-to-cart-btn {
+  background-color: #42b983 !important;
+  color: white;
+}
+
+.add-to-cart-btn:hover {
+  background-color: #3aa876 !important;
+}
+
+.remove-btn {
+  background-color: #ff4d4d !important;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.remove-btn:hover {
+  background-color: #e04444 !important;
+}
+
+.shop-btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #42b983;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.shop-btn:hover {
+  background-color: #3aa876;
+}
